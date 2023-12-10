@@ -87,5 +87,5 @@ async function dataip(){
     }
 }
 
-dataip()
+
 
